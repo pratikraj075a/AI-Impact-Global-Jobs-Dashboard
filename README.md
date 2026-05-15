@@ -1,8 +1,6 @@
 # AI-Impact-Global-Jobs-Dashboard
 Power BI Dashboard project analyzing AI impact on global jobs, salaries, automation risk, and AI skill demand.
 
-# AI Impact on Global Jobs Dashboard
-
 ## Project Overview
 This Power BI dashboard analyzes the impact of Artificial Intelligence on global jobs.
 
